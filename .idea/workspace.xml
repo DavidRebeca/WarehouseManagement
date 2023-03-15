@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="798ab2e9-ca1e-4432-97a4-c04fa521c445" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factura.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Factura.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/ClientBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/ClientBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/ComandaBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/ComandaBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BusinessLogic/ProdusBLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BusinessLogic/ProdusBLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Connection/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Connection/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ClientDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ComandaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ComandaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataAccess/ProdusDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataAccess/ProdusDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Comanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Comanda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model/Produs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model/Produs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewClient.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewClient.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewComanda.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewComanda.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewComanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewComanda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewOperations.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewOperations.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduse.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduse.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Presentation/ViewProduse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ClientBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ComandaBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ComandaBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BusinessLogic/ProdusBLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BusinessLogic/ProdusBLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Connection/ConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Connection/ConnectionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/AbstractDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/AbstractDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/ClientDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/ClientDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/ComandaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/ComandaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataAccess/ProdusDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DataAccess/ProdusDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Comanda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Comanda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Model/Produs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Model/Produs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewComanda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Presentation/ViewProduse.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Connection/ConnectionFactory.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Model/Comanda.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/ClientBLL.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/ProdusBLL.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DataAccess/ProdusDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Presentation/ViewClient.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/BusinessLogic/ComandaBLL.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DataAccess/AbstractDAO.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/App/AppMain.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27QzPy7I1a6pzlH8yZ9OaZvTHA0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="138" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="208" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../POO/Calculator_Polinoame" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rebeca\IdeaProjects\Assigment_3\src\main\BusinessLogic" />
+      <recent name="C:\Users\Rebeca\IdeaProjects\Assigment_3\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.AppMain" />
+      <module name="Assigment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="App.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="798ab2e9-ca1e-4432-97a4-c04fa521c445" name="Changes" comment="" />
+      <created>1649267096955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649267096955</updated>
+      <workItem from="1649267098279" duration="15621000" />
+      <workItem from="1649336109926" duration="2000" />
+      <workItem from="1649408473083" duration="6062000" />
+      <workItem from="1649441103121" duration="5044000" />
+      <workItem from="1649495425872" duration="22024000" />
+      <workItem from="1649530095705" duration="5817000" />
+      <workItem from="1649536331878" duration="1332000" />
+      <workItem from="1649571869986" duration="13437000" />
+      <workItem from="1649589522313" duration="14000" />
+      <workItem from="1649653753511" duration="2765000" />
+      <workItem from="1649682304797" duration="106000" />
+      <workItem from="1649848016143" duration="29000" />
+      <workItem from="1650104915620" duration="969000" />
+      <workItem from="1650260852712" duration="119000" />
+      <workItem from="1651047389458" duration="115000" />
+      <workItem from="1651047569194" duration="69000" />
+      <workItem from="1651048495014" duration="765000" />
+      <workItem from="1651939671401" duration="725000" />
+      <workItem from="1651994368904" duration="3423000" />
+      <workItem from="1653115769045" duration="1922000" />
+      <workItem from="1655272320954" duration="1927000" />
+      <workItem from="1665314064179" duration="126000" />
+      <workItem from="1665638828120" duration="1065000" />
+      <workItem from="1666243758657" duration="847000" />
+      <workItem from="1668538019507" duration="28000" />
+      <workItem from="1668538192407" duration="16000" />
+      <workItem from="1668950055039" duration="242000" />
+      <workItem from="1668950326541" duration="3575000" />
+      <workItem from="1669041696690" duration="603000" />
+      <workItem from="1669061601211" duration="148000" />
+      <workItem from="1669064663129" duration="1699000" />
+      <workItem from="1669117303285" duration="3529000" />
+      <workItem from="1677245229394" duration="6696000" />
+      <workItem from="1678567347888" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.beans.IntrospectionException" package="java.beans" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
